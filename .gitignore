@@ -8,5 +8,9 @@ _site
 .tweet-cache
 Gemfile.lock
 vendor
+
+# File for template
 temp_*
+# File that haven't been finished
+working_*
 
