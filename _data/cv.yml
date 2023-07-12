@@ -3,10 +3,10 @@
   contents:
     - name: Full Name
       value: Yuan Tong
-    - name: Date of Birth
-      value: 19th July 2000
-    - name: Languages
-      value: Chinese, English
+    # - name: Date of Birth
+    #   value: 19th July 2000
+    - name: Languages Skills
+      value: IELTS: 7 CET-4: 613
     - name: Programming
       value: Python, C/C++, Matlab, Scala
 
