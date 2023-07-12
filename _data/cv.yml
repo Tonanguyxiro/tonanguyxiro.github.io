@@ -86,22 +86,7 @@
       - Third Prize, awarded by SUSTech
       
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: High Performance Computing
-      items: 
-        - Scale expansion.
-        - Performance optimization
-        - RDMA Programming
-    - title: Hardware
-      items:
-        - Robotics
-        - Embedded System
-    - title: Artificial Intelligence
-      items:
-        - Autonomous Driving
-        - Bayesian Network
+
 
 - title: Experience
   type: time_table
@@ -130,7 +115,23 @@
       year: 2019.09 - 2022.06
       description:
         - Establishing, maintaining and promotion mirror sites and other services, assist the preparation of Linux and Latex lectures.
-   
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: High Performance Computing
+#       items: 
+#         - Scale expansion.
+#         - Performance optimization
+#         - RDMA Programming
+#     - title: Hardware
+#       items:
+#         - Robotics
+#         - Embedded System
+#     - title: Artificial Intelligence
+#       items:
+#         - Autonomous Driving
+#         - Bayesian Network
 # - title: Open Source Projects
 #   type: time_table
 #   contents:
